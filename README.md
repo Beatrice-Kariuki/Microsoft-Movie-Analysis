@@ -41,10 +41,14 @@ In the folder `zippedData` are movie datasets from:
 ![Runtime Through The Years](https://github.com/Beatrice-Kariuki/Microsoft-Movie-Analysis/blob/master/Runtime_decades.png)
 2.Micosoft should consider the average rating of best genre combination which is the talkshow.Also the best genres to produce are the 
   Animation,mystery,thriller with an average rating of 9.2
+  
 ![Top 10 Genre By Averagerating](https://github.com/Beatrice-Kariuki/Microsoft-MovieAnalysis/blob/master/Images/Top%2010%20Genre%20By%20Average%20Rating.png)
 
+3.Top 10 Genre Combination By Average Rating
+
 ![Top 10 Genre Combination by Average Rating](https://github.com/Beatrice-Kariuki/Microsoft-Movie-Analysis/blob/master/Images/Top%207%20Genre%20Combinations%20By%20Average%20Rating.png)
-3.To align the genre combination with the target audience.
+
+4.To align the genre combination with the target audience.
 
 ## Summary
 
